@@ -12,4 +12,7 @@ Lastly, there is a contact page with a centered, responsive image. I then used a
 Finally, I added a sticky footer to each page "Unity Coding Bootcamp"
 
 https://github.com/basedricky/AboutWhomst
+
 https://basedricky.github.io/AboutWhomst/
+
+Updated the "Submit" button. The button now clears the form.
