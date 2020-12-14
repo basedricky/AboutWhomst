@@ -10,3 +10,6 @@ The portfolio page features a centered, responsive image. There is a header, fol
 Lastly, there is a contact page with a centered, responsive image. I then used a header and included a Form which collects Name, Email, Country (A list dropdown with 4 options ..., USA, CA, Other) and a location to uploade a Resume. Lastly there is a submit button at the bottom of the page.
 
 Finally, I added a sticky footer to each page "Unity Coding Bootcamp"
+
+https://github.com/basedricky/AboutWhomst
+https://basedricky.github.io/AboutWhomst/
