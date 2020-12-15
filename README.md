@@ -18,3 +18,5 @@ https://basedricky.github.io/AboutWhomst/
 Updated the "Submit" button. The button now clears the form.
 
 Was unable to get my collapsed tabs to work. Updated Navbar.
+
+Updated some padding/spacing on my pages.
